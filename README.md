@@ -1,4 +1,4 @@
-### No code in, no pain. 😎
+### One test is worth a thousand opinions. 😎
 
 <!--
 **FurkanDGN/FurkanDGN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
